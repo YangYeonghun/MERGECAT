@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FruitAtals
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e2a63524cc4e8bc40b1034263c1d6aea, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fce8caa2e52d90a4b8d41c674d47ebc9, type: 3}
+  - {fileID: 21300000, guid: baf6dec4976646741af032ad0a78b894, type: 3}
+  - {fileID: 21300000, guid: ea0bb8951901f444986794c3db362e2f, type: 3}
+  - {fileID: 21300000, guid: 4cc228e55659923498cfb10754de4226, type: 3}
+  - {fileID: 21300000, guid: e70f41476eb3a0d4781335a98ac18d0b, type: 3}
+  - {fileID: 21300000, guid: 7ff5e1f8e7cc4d64f81653243b15e6dd, type: 3}
+  - {fileID: 21300000, guid: 4de24899b64757c4d8710d034adf8fa4, type: 3}
+  - {fileID: 21300000, guid: 34962af98d7b6024aa6e7f21cc9f7533, type: 3}
+  - {fileID: 21300000, guid: 4b2df67adac2bb146959bc6486332edb, type: 3}
+  - {fileID: 21300000, guid: 980d3e9bb4fcdae4b8a1227e72973871, type: 3}
+  - {fileID: 21300000, guid: 61e8e16c474522846bdebedb1c24a29f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - fruit_9
+  - fruit_10
+  - fruit_2
+  - fruit_3
+  - fruit_8
+  - fruit_4
+  - fruit_5
+  - fruit_7
+  - fruit_11
+  - fruit_6
+  - fruit_1
+  m_Tag: FruitAtals
+  m_IsVariant: 0
